@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Desktop\\IBDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9D49F-FC02-4088-BD36-6B9FEF2AC096}|IBDb.csproj|c:\\users\\filip\\desktop\\ibdb\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9D49F-FC02-4088-BD36-6B9FEF2AC096}|IBDb.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9D49F-FC02-4088-BD36-6B9FEF2AC096}|IBDb.csproj|c:\\users\\filip\\desktop\\ibdb\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9D49F-FC02-4088-BD36-6B9FEF2AC096}|IBDb.csproj|solutionrelative:helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F9D49F-FC02-4088-BD36-6B9FEF2AC096}|IBDb.csproj|c:\\users\\filip\\desktop\\ibdb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F9D49F-FC02-4088-BD36-6B9FEF2AC096}|IBDb.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\IBDb\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\IBDb\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:23:09.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\IBDb\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Helpers\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\IBDb\\Helpers\\MappingProfiles.cs",
+              "RelativeToolTip": "Helpers\\MappingProfiles.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:11:05.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\IBDb\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\IBDb\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:55:58.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
